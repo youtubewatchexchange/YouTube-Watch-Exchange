@@ -1,6 +1,6 @@
 
 {
-  "app_enabled": tru,
+  "app_enabled": false,
   "title": "নতুন ভার্সন উপলব্ধ",
   "message": "এই অ্যাপটি আর ব্যবহার করা যাবে না। অনুগ্রহ করে সর্বশেষ ভার্সন ডাউনলোড করুন।",
   "download_url": "https://github.com/youtubewatchexchange/YouTube-Watch-Exchange/releases/latest"
